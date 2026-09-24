@@ -1,0 +1,11 @@
+com\example\military\AssignmentRepository.class
+com\example\military\PurchaseRepository.class
+com\example\military\MilitaryAssetApplication.class
+com\example\military\TransferRepository.class
+com\example\military\AssetController.class
+com\example\military\Purchase.class
+com\example\military\Assignment.class
+com\example\military\SecurityConfig.class
+com\example\military\AuditLog.class
+com\example\military\Transfer.class
+com\example\military\AuditRepository.class
